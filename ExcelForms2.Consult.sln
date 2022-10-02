@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelForms2.Consult", "ExcelForms2.Consult\ExcelForms2.Consult.csproj", "{55617DA2-92A5-4679-AC80-DAA85E689D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marging", "Marging\Marging.csproj", "{8063E974-997F-4D04-A1E5-90512BA97E38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55617DA2-92A5-4679-AC80-DAA85E689D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55617DA2-92A5-4679-AC80-DAA85E689D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55617DA2-92A5-4679-AC80-DAA85E689D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55617DA2-92A5-4679-AC80-DAA85E689D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8063E974-997F-4D04-A1E5-90512BA97E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8063E974-997F-4D04-A1E5-90512BA97E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8063E974-997F-4D04-A1E5-90512BA97E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8063E974-997F-4D04-A1E5-90512BA97E38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76CC0AF9-EB4F-4450-BD26-B9FE09EF4865}
+	EndGlobalSection
+EndGlobal
